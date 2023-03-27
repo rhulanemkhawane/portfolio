@@ -1,6 +1,6 @@
 # portfolio
 
-# [Project 1: Academic Paper Assessing the Determinants of Child Hunger] (https://github.com/rhulanemkhawane/portfolio/blob/main/Research%20Project%20on%20Child%20Hunger.docx)
+# [Project 1: Academic Paper Assessing the Determinants of Child Hunger](https://github.com/rhulanemkhawane/portfolio/blob/main/Research%20Project%20on%20Child%20Hunger.docx)
 **The overall purpose of this paper was to determine the factors that effected child hunger. 
 The results of this paper were limited to the variables used in the data set provided. 
 Child hunger is a complex topic with many different determinants that go beyond the variables 
