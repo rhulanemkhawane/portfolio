@@ -3,8 +3,7 @@
 # [Project 1: Predicting Credit Card Risk Using Decision Trees](https://github.com/rhulanemkhawane/portfolio/blob/main/Credit%20Risk.R)
 **The aim of the project is to create a model which would accurately predict the credit risk of an individual, given 21 explanatory variables. The project made use of decision trees to create the model. The model predicted the response variable, a binary outcome of credit worthiness, with 83% accuracy.**
 
-![](https://github.com/rhulanemkhawane/portfolio/blob/main/images/Model2.png)
-![](https://github.com/rhulanemkhawane/portfolio/blob/main/images/plot_correlation.png)
+![](https://github.com/rhulanemkhawane/portfolio/blob/main/images/Model2.png) ![](https://github.com/rhulanemkhawane/portfolio/blob/main/images/plot_correlation.png)
 
 # [Project 2: Analysing and Predicting Cardiovascular Disease Using XGBoost](https://github.com/rhulanemkhawane/portfolio/blob/main/cvd-xgboost-project.ipynb)
 **This project aims to accurately predict whether or not an individual will be diagnosed with cardiovascular disease using 18 explanatory variables. The project makes use of XGBoost supervised machine learning algorithm. The model was able to predict cardiovascular disease with 92% accuracy.**
